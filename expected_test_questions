@@ -1,0 +1,50 @@
+COLLEGE RAG ASSISTANT — TEST QUESTIONS AND EXPECTED RESULTS
+All source documents in this dataset are fictional examples for testing only.
+
+1. Question: What qualification is required for undergraduate admission?
+Expected: Class 12 or an equivalent qualification. Source: admission.txt.
+
+2. Question: Which documents must I submit when applying?
+Expected: Class 12 marksheet, identity proof, two passport-size photographs, and completed application form. Source: admission.txt.
+
+3. Question: When is the sample admission deadline, and when are tuition fees due?
+Expected: Admission deadline is 30 June 2026; tuition fees are due by 15 July 2026. Sources: admission.txt and fees.txt.
+
+4. Question: How often must I attend classes to satisfy the attendance rule?
+Expected: At least 75% attendance in each course. Source: attendance.txt.
+
+5. Question: What happens if my attendance is below the required level?
+Expected: Contact the department office and follow the shortage-of-attendance procedure. Source: attendance.txt.
+
+6. Question: What is the minimum passing mark for a written exam?
+Expected: 40 out of 100 under the fictional sample policy. Source: examination.txt.
+
+7. Question: How long can I keep a library book?
+Expected: 14 days. Source: library.txt.
+
+8. Question: How many books may an undergraduate borrow at once?
+Expected: Up to three books. Source: library.txt.
+
+9. Question: What is the sample late library-book fine?
+Expected: ₹5 per book per day after the due date. Source: library.txt.
+
+10. Question: What is the college principal's phone number?
+Expected: Abstain. The supplied documents do not contain this information.
+
+11. Question: Who won the FIFA World Cup in 2018?
+Expected: Abstain because the question is unrelated to the supplied college documents.
+
+12. Question: One file says attendance must be 75%, while another says 80%. Which is correct?
+Expected: Report the conflict between attendance.txt (75%) and attendance_v2_conflict.txt (80%, unapproved draft). Do not claim the draft is authoritative.
+
+13. Question: What should I bring to the examination hall?
+Expected: College identity card. Source: examination.txt.
+
+14. Question: Does the fee document state the refund timeline?
+Expected: No. It explicitly says the sample document does not specify a refund amount or timeline. Source: fees.txt.
+
+15. Question: Can a library book be renewed?
+Expected: It may be renewed once if no other reader has requested it. Source: library.txt.
+
+Evaluation note:
+The expected results are targets for manual evaluation. A RAG application may need retrieval tuning and explicit conflict handling to satisfy them consistently.

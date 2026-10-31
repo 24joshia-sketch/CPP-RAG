@@ -1,0 +1,18 @@
+SAMPLE COLLEGE POLICY — FICTIONAL DATA FOR RAG TESTING
+Document: Library Borrowing Policy
+Version: 1.0
+Effective date: 1 April 2026
+
+1. Borrowing limit
+An undergraduate student may borrow up to three books at a time.
+
+2. Loan period
+Books may be borrowed for 14 days.
+
+3. Late return
+The sample late-return fine is ₹5 per book for each day after the due date.
+
+4. Renewal
+A book may be renewed once if no other reader has requested it.
+
+Note: This is fictional sample data created for software testing. It is not an official college policy.

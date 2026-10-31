@@ -1,0 +1,18 @@
+SAMPLE COLLEGE POLICY — FICTIONAL DATA FOR RAG TESTING
+Document: Tuition Fee Payment Policy
+Version: 1.0
+Effective date: 1 April 2026
+
+1. Payment deadline
+For this sample academic cycle, tuition fees must be paid by 15 July 2026.
+
+2. Payment methods
+Students may pay through the college payment portal or at the accounts office using a method approved by the college.
+
+3. Receipt
+Students should retain the payment receipt for their records.
+
+4. Refunds
+This sample document does not specify a tuition-fee refund amount or refund timeline. Students should contact the accounts office for clarification.
+
+Note: This is fictional sample data created for software testing. It is not an official college policy.

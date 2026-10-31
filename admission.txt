@@ -1,0 +1,18 @@
+SAMPLE COLLEGE POLICY — FICTIONAL DATA FOR RAG TESTING
+Document: Undergraduate Admission Policy
+Version: 1.0
+Effective date: 1 April 2026
+
+1. Eligibility
+Applicants to undergraduate programmes must have completed Class 12 or an equivalent qualification.
+
+2. Required documents
+Applicants must submit their Class 12 marksheet, identity proof, two passport-size photographs, and the completed application form.
+
+3. Application deadline
+The application deadline for the sample admission cycle is 30 June 2026.
+
+4. Contact
+Applicants should direct admission questions to the college admission office.
+
+Note: This is fictional sample data created for software testing. It is not an official college policy.

@@ -1,0 +1,18 @@
+SAMPLE COLLEGE POLICY — FICTIONAL DATA FOR RAG TESTING
+Document: Examination Policy
+Version: 1.0
+Effective date: 1 April 2026
+
+1. Passing marks
+For this sample policy, students must score at least 40 marks out of 100 to pass a written examination.
+
+2. Examination duration
+A standard written examination lasts three hours unless the examination timetable states otherwise.
+
+3. Identification
+Students must bring their college identity card to the examination hall.
+
+4. Late arrival
+Students should follow the instructions issued by the examination office regarding late arrival.
+
+Note: This is fictional sample data created for software testing. It is not an official college policy.

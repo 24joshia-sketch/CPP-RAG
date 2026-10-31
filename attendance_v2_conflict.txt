@@ -1,0 +1,12 @@
+SAMPLE CONFLICTING POLICY — FICTIONAL DATA FOR RAG TESTING
+Document: Student Attendance Policy — Alternate Draft
+Version: 2.0 DRAFT
+Effective date: Not approved
+
+1. Minimum attendance
+This alternate draft states that students must maintain at least 80% attendance in each course.
+
+2. Status
+This document is an unapproved draft included specifically to test whether a RAG application detects conflicting information. It must not be treated as an authoritative policy.
+
+Note: This is fictional sample data created for software testing. It is not an official college policy.
